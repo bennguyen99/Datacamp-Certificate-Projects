@@ -14,13 +14,13 @@ For theoretical knowledge, please refer to https://app.datacamp.com/certificatio
 
 For practical projects, following abilities are tested:
 
-  - Data Validation: Assess data quality and perform validation tasks.
-  - Data Cleaning: Deal with duplicates, outliers, null values, and wrong-formatted data.
-  - EDA: Perform Exploratory Data Analysis to explore key insights that drive actionable decisions.
-  - Data Visualization: Create data visualizations in coding language to demonstrate the characteristics of data and represent relationships between features.
-  - Business Focus: Make recommendations for analytic approaches based on business goals.
-  - Business Metrics: Judge performance of analytic results against relevant business criteria.
-  - Communication: Employs multiple tactics (written and verbal) to communicate with business leaders.
+  - **Data Validation**: Assess data quality and perform validation tasks.
+  - **Data Cleaning**: Deal with duplicates, outliers, null values, and wrong-formatted data.
+  - **EDA**: Perform Exploratory Data Analysis to explore key insights that drive actionable decisions.
+  - **Data Visualization**: Create data visualizations in coding language to demonstrate the characteristics of data and represent relationships between features.
+  - **Business Focus**: Make recommendations for analytic approaches based on business goals.
+  - **Business Metrics**: Judge performance of analytic results against relevant business criteria.
+  - **Communication**: Employs multiple tactics (written and verbal) to communicate with business leaders.
 
 There is one pdf file in each of the project folders where a more specific description of these tested abilities can be found.
 
@@ -28,11 +28,11 @@ There is one pdf file in each of the project folders where a more specific descr
 
 Mutiple tools are used in the three projects as follows.
 
-  - PostgreSQL for data cleaning and analysis.
+  - _**PostgreSQL**_ for data cleaning and analysis.
 
-  - Numpy for numerical computation.
+  - _**Numpy**_ for numerical computation.
 
-  - Pandas for processing csv files and visualization.
+  - _**Pandas**_ for processing csv files and visualization.
 
-  - Matplotlib and Seaborn for better and more complicated visualization.
+  - _**Matplotlib**_ and Seaborn for better and more complicated visualization.
 
